@@ -1,0 +1,8 @@
+*/Models
+*/.vscode
+*/datasets
+*/build
+*/__pycache__
+*/.ipynb_checkpoints
+Testing/
+*.zip
